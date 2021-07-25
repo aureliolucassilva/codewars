@@ -1,3 +1,5 @@
+-- Link --> https://www.codewars.com/kata/5811527d9d278b242f000006
+
 CREATE VIEW members_approved_for_voucher AS
 WITH department_revenue AS
 (
