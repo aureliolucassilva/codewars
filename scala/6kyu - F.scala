@@ -1,4 +1,4 @@
-// Link -> https://www.codewars.com/kata/5274e122fc75c0943d000148
+// Link -> https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad
 
 import scala.math._
 
